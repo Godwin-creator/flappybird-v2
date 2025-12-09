@@ -7,7 +7,7 @@
 
 ---
 
-## 🎮 À propos du projet
+##  À propos du projet
 
 Cette version améliorée de **Flappy Bird** est un petit jeu en HTML/CSS/JavaScript développé par [@Godwin-creator](https://github.com/godwin-creator).
 
@@ -15,13 +15,13 @@ Cette version améliorée de **Flappy Bird** est un petit jeu en HTML/CSS/JavaSc
 
 ---
 
-## 🚀 Lien de jeu en ligne
+##  Lien de jeu en ligne
 
 👉 [Clique ici pour jouer à Flappy Bird v2](https://godwin-creator.github.io/flappybird-v2/)
 
 ---
 
-## 🧩 Fonctionnalités
+##  Fonctionnalités
 
 - Animation fluide du jeu
 - Obstacles aléatoires
@@ -31,7 +31,7 @@ Cette version améliorée de **Flappy Bird** est un petit jeu en HTML/CSS/JavaSc
 
 ---
 
-## 🔒 Protection contre la triche
+##  Protection contre la triche
 
 Le record est stocké dans le navigateur avec une **fonction de chiffrement personnalisée**, ce qui empêche sa lecture directe ou sa falsification via les outils de développement (`localStorage`).
 
