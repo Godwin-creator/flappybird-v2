@@ -21,7 +21,7 @@ const largeurTuyau = 40;
 const ecartTuyaux = 80;
 const largeurOiseau = 34;
 const hauteurOiseau = 24;
-const gravite = 10;
+const gravite = 0.8;
 
 let xoiseau = 100;
 let yoiseau = 150;
