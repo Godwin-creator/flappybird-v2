@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🐤 Flappy Bird – Version 2.0
-
+- [📸 Galerie](#galerie)
 ### *L'évolution du classique avec protection anti-triche et fonctionnalités avancées*
 
 [![Status](https://img.shields.io/badge/🟢_En_ligne-Disponible-brightgreen?style=for-the-badge)](https://godwin-creator.github.io/flappybird-v2/)
